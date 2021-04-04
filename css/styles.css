@@ -22,3 +22,8 @@ body {
     line-height: 30px;
 
 }  
+img{
+    height: 400px;
+    width: 500px;
+    border-radius: 5px;
+}
