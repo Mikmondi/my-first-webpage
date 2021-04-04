@@ -13,3 +13,12 @@ p {
 ul {
     line-height: 40px;
   }
+body {
+    background-color: rgb(54, 53, 53);
+    color: azure;
+    font-size: large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+
+}  
